@@ -103,7 +103,7 @@ def config(use_cuda=torch.cuda.is_available(), allow_download=True, base_dir=fil
     config["seem"] = {
         "model": seem_model,
         "transform": seem_transform,
-        "species": "brochet"
+        "species": "fish"
     }
     
 
